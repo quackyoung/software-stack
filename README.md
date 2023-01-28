@@ -6,8 +6,7 @@
 * [Chrome](https://www.google.com/intl/en/chrome/)
 
 ### Documentation & Media
-* Adobe (Creative Cloud): Adobe Premiere Pro, Adobe Photoshop
-* 한글과컴퓨터(한컴오피스): 한컴 타자연습
+* Adobe (Creative Cloud): Adobe Premiere Pro
 
 ### Development
 * [Python](https://www.python.org/)
